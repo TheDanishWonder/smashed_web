@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/smashed_web/static/css/main.05291e48.chunk.css",
-    "main.js": "/smashed_web/static/js/main.f6bd3b04.chunk.js",
-    "main.js.map": "/smashed_web/static/js/main.f6bd3b04.chunk.js.map",
-    "runtime-main.js": "/smashed_web/static/js/runtime-main.ec62813e.js",
-    "runtime-main.js.map": "/smashed_web/static/js/runtime-main.ec62813e.js.map",
-    "static/js/2.96daf995.chunk.js": "/smashed_web/static/js/2.96daf995.chunk.js",
-    "static/js/2.96daf995.chunk.js.map": "/smashed_web/static/js/2.96daf995.chunk.js.map",
-    "static/js/3.1a52f978.chunk.js": "/smashed_web/static/js/3.1a52f978.chunk.js",
-    "static/js/3.1a52f978.chunk.js.map": "/smashed_web/static/js/3.1a52f978.chunk.js.map",
-    "index.html": "/smashed_web/index.html",
-    "static/css/main.05291e48.chunk.css.map": "/smashed_web/static/css/main.05291e48.chunk.css.map",
-    "static/js/2.96daf995.chunk.js.LICENSE.txt": "/smashed_web/static/js/2.96daf995.chunk.js.LICENSE.txt",
-    "static/media/BeerLoading.42e3ab23.gif": "/smashed_web/static/media/BeerLoading.42e3ab23.gif",
-    "static/media/google-play-badge.f902960a.png": "/smashed_web/static/media/google-play-badge.f902960a.png"
+    "main.css": "/static/css/main.05291e48.chunk.css",
+    "main.js": "/static/js/main.f6bd3b04.chunk.js",
+    "main.js.map": "/static/js/main.f6bd3b04.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.57e5e22e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.57e5e22e.js.map",
+    "static/js/2.96daf995.chunk.js": "/static/js/2.96daf995.chunk.js",
+    "static/js/2.96daf995.chunk.js.map": "/static/js/2.96daf995.chunk.js.map",
+    "static/js/3.1a52f978.chunk.js": "/static/js/3.1a52f978.chunk.js",
+    "static/js/3.1a52f978.chunk.js.map": "/static/js/3.1a52f978.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.05291e48.chunk.css.map": "/static/css/main.05291e48.chunk.css.map",
+    "static/js/2.96daf995.chunk.js.LICENSE.txt": "/static/js/2.96daf995.chunk.js.LICENSE.txt",
+    "static/media/BeerLoading.42e3ab23.gif": "/static/media/BeerLoading.42e3ab23.gif",
+    "static/media/google-play-badge.f902960a.png": "/static/media/google-play-badge.f902960a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec62813e.js",
+    "static/js/runtime-main.57e5e22e.js",
     "static/js/2.96daf995.chunk.js",
     "static/css/main.05291e48.chunk.css",
     "static/js/main.f6bd3b04.chunk.js"
