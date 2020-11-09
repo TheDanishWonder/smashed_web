@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/smashed_website/static/css/main.05291e48.chunk.css",
+    "main.js": "/smashed_website/static/js/main.8ba56ba6.chunk.js",
+    "main.js.map": "/smashed_website/static/js/main.8ba56ba6.chunk.js.map",
+    "runtime-main.js": "/smashed_website/static/js/runtime-main.a16ec4b0.js",
+    "runtime-main.js.map": "/smashed_website/static/js/runtime-main.a16ec4b0.js.map",
+    "static/js/2.96daf995.chunk.js": "/smashed_website/static/js/2.96daf995.chunk.js",
+    "static/js/2.96daf995.chunk.js.map": "/smashed_website/static/js/2.96daf995.chunk.js.map",
+    "static/js/3.1a52f978.chunk.js": "/smashed_website/static/js/3.1a52f978.chunk.js",
+    "static/js/3.1a52f978.chunk.js.map": "/smashed_website/static/js/3.1a52f978.chunk.js.map",
+    "index.html": "/smashed_website/index.html",
+    "static/css/main.05291e48.chunk.css.map": "/smashed_website/static/css/main.05291e48.chunk.css.map",
+    "static/js/2.96daf995.chunk.js.LICENSE.txt": "/smashed_website/static/js/2.96daf995.chunk.js.LICENSE.txt",
+    "static/media/BeerLoading.42e3ab23.gif": "/smashed_website/static/media/BeerLoading.42e3ab23.gif",
+    "static/media/google-play-badge.f902960a.png": "/smashed_website/static/media/google-play-badge.f902960a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a16ec4b0.js",
+    "static/js/2.96daf995.chunk.js",
+    "static/css/main.05291e48.chunk.css",
+    "static/js/main.8ba56ba6.chunk.js"
+  ]
+}
