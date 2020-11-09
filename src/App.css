@@ -2,6 +2,7 @@
 
 .App {
   text-align: center;
+  background-color: #222222;
 }
 
 .App-header {
@@ -50,6 +51,25 @@
   height: 153px;
   animation-name: fade-in-badge;
   animation-duration: 5s;
+}
+
+.divider {
+  border-top: 3px solid #e0e0e0;
+  border-radius: 10px;
+  margin: 0px 50px 0px 50px;
+}
+.Privacy {
+  background-color: #222222;
+  padding: 0px 50px 0px 50px;
+  color: white;
+}
+.App-Usage {
+  padding: 0px 50px 0px 50px;
+  color: white;
+}
+.Terms {
+  padding: 0px 50px 50px 50px;
+  color: white;
 }
 
 @media only screen and (min-width: 961px) {
