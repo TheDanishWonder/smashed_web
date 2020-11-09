@@ -59,6 +59,7 @@
   margin: 0px 50px 0px 50px;
 }
 .Privacy {
+  margin-top: 0;
   background-color: #222222;
   padding: 0px 50px 0px 50px;
   color: white;
@@ -81,7 +82,7 @@
 @media only screen and (max-width: 960px) {
   .App-header {
     height: calc(var(--vh, 1vh) * 100);
-    background: linear-gradient(to bottom, #00f7ff 0%, #e0e0e0 60%);
+    background: linear-gradient(to bottom, #00f7ff 0%, #e0e0e0 50%);
   }
   .Title {
     font-size: 150px;
@@ -108,21 +109,22 @@
     height: calc(var(--vh, 1vh) * 100);
   }
   .Title {
-    font-size: 80px;
-    margin-top: -270px;
+    font-size: 60px;
+    margin-top: -300px;
+    text-shadow: 4px -1px 20px rgba(0, 0, 0, 1);
   }
   .UnderTitle {
-    font-size: 15px;
+    font-size: 10px;
     margin-top: -60px;
   }
   .downloads {
-    margin-top: 30px;
+    margin-top: 20px;
   }
   .Apple-download-badge {
-    height: 100px;
+    height: 50px;
   }
   .Android-download-badge {
-    height: 100px;
+    height: 50px;
   }
   .BeerGif {
     width: 100%;
